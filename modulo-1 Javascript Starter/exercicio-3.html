@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercicio 3</title>
+</head>
+<script>
+    var skills = ["Javascript", "ReactJS", "React Native"];
+
+    function existeHabilidade(habilidade){
+        skills.forEach(element => {
+            if(element == habilidade){
+                return console.log(skills.indexOf(habilidade))
+            }
+        });
+    }
+
+    console.log(existeHabilidade("ReactJS"));
+
+</script>
+<body>
+</body>
+</html>
