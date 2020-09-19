@@ -1,6 +1,6 @@
 ### Exercícios Javascript e ES6 - Rocketseat Starter :rocket:
 
-### Modulo 1 Javascript
+### [Modulo 1 Javascript](https://github.com/rjornelas/javascript-studies/tree/master/modulo-1%20Javascript%20Starter)
 
 ## 1º exercício
 Crie uma função que dado o objeto a seguir:
