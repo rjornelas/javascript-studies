@@ -1,4 +1,6 @@
-### Exercícios: Módulo 01 :rocket:
+### Exercícios Javascript e ES6 - Rocketseat Starter :rocket:
+
+### Modulo 1 Javascript
 
 ## 1º exercício
 Crie uma função que dado o objeto a seguir:
